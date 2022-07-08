@@ -1,0 +1,15 @@
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll

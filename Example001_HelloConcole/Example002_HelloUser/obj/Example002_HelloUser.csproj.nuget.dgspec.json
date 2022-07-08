@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/Example002_HelloUser.csproj": {}
+  },
+  "projects": {
+    "/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/Example002_HelloUser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/Example002_HelloUser.csproj",
+        "projectName": "Example002_HelloUser",
+        "projectPath": "/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/Example002_HelloUser.csproj",
+        "packagesPath": "/Users/andrejorehov/.nuget/packages/",
+        "outputPath": "/Users/andrejorehov/Documents/Examples/Example001_HelloConcole/Example002_HelloUser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andrejorehov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
